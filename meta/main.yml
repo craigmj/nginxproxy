@@ -7,6 +7,6 @@ galaxy_info:
   min_ansible_version: 1.2
   platforms:
   - name: Ubuntu
-    - all
+    versions: [all]
   categories: [web]
   dependencies: []
